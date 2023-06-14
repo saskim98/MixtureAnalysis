@@ -1,4 +1,4 @@
-A Comparison of Statistical Methods for Studying Interactions of Chemical Mixtures
+Title: A Comparison of Statistical Methods for Studying Interactions of Chemical Mixtures
 
 Main code : nPesticideF.f
 
